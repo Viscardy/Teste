@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568070695 source:c:\users\lucas\desktop\faculdade\programas\prova1marilton\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1568070695 source:c:\users\lucas\desktop\faculdade\2º semestre\programas\prova1marilton\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
